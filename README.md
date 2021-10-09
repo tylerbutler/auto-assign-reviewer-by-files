@@ -74,17 +74,17 @@ jobs:
 <table>
 <tr>
     <td align="center">
+        <a href="https://github.com/tylerbutler">
+            <img src="https://avatars.githubusercontent.com/u/19589?v=4" width="100;" alt="tylerbutler"/>
+            <br />
+            <sub><b>Tyler Butler</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/shufo">
             <img src="https://avatars.githubusercontent.com/u/1641039?v=4" width="100;" alt="shufo"/>
             <br />
             <sub><b>Shuhei Hayashibara</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/shufo2">
-            <img src="https://avatars.githubusercontent.com/u/63141322?v=4" width="100;" alt="shufo2"/>
-            <br />
-            <sub><b>shufo2</b></sub>
         </a>
     </td>
     <td align="center">
